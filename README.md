@@ -8,7 +8,7 @@ Nach einer Neuinstallation von OS X die [dotfiles](https://github.com/mathiasbyn
 
     git clone https://github.com/mathiasbynens/dotfiles.git && cd dotfiles && source bootstrap.sh
 
-Zum Updaten `cd` in das lokale `dotfiles` Repository (bei mir `cd ~/Documents/Projects/dotfiles`) und dann:
+Zum Updaten `cd` in das lokale `dotfiles` Repository (bei mir `cd ~/Projects/dotfiles`) und dann:
 
 ```bash
 source bootstrap.sh
